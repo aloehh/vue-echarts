@@ -1,12 +1,9 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
+node_modules/
+dist/
 # Other files and folders
 .settings/
-
+yarn-error.log*
 # Executables
 *.swf
 *.air
