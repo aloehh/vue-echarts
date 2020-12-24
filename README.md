@@ -10,7 +10,9 @@ yarn install
 yarn serve
 ```
 <hr/>
+
 ### 验证 build 之后的文件大小
+
 ```
  输入命令: yarn run build --report, 会打开一个新的html页面
 ```
