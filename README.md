@@ -1,4 +1,4 @@
-# vue-test-manu
+# vue-echarts-test
 
 ## Project setup
 ```
